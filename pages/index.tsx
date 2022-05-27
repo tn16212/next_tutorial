@@ -24,6 +24,10 @@ const Home: NextPage = () => {
           <a>ShareState</a>
         </Link>
 
+        <Link href={'/ProductTable'}>
+          <a>ProductTable</a>
+        </Link>
+
         <CounterButton />
 
       </main>
